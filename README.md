@@ -21,9 +21,7 @@ Skills: HTML / CSS / JAVA
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muntasir-Mamun7&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Muntasir-Mamun7)  
 
-![GitHub metrics](https://metrics.lecoq.io/Muntasir-Mamun7)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Muntasir-Mamun7)  
 
