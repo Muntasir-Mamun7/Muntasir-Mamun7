@@ -1,13 +1,12 @@
 <a href="https://ibb.co/CHjcWFL"><img src="https://i.ibb.co/MCzv9Ld/Image-20230711145721.jpg" alt="Image-20230711145721" border="0"></a>
 
-### Hi there 👋, my name is Muntasir Al Mamun
+### Hi there, my name is Muntasir Al Mamun
 #### Web Developer
 
 
-Skills: HTML / CSS / JAVA
+Skills: HTML / CSS / JS /JAVA
 
-- 🔭 I’m currently working on WordPress 
-- 🌱 I’m currently learning Java 
+- 🔭 currently working with HTML , CSS & JS
 - 👯 I’m looking to collaborate on GitHub 
 
 
