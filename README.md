@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/morn_7" target="blank"><img src="https://img.shields.io/twitter/follow/morn_7?logo=twitter&style=for-the-badge" alt="morn_7" /></a> </p>
 
+- 🔭 I’m currently working on [G3 Architect](https://muntasir-mamun7.github.io/g3-arch/)
+
 - 🌱 I’m currently learning **CSS frameworks and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://muntasir-mamun7.github.io/Portfolio-Muntasir-2.0/](https://muntasir-mamun7.github.io/Portfolio-Muntasir-2.0/)
@@ -17,11 +19,17 @@
 
 - 📄 Know about my experiences [https://muntasir-mamun7.github.io/Portfolio-Muntasir-2.0/muntasir-resume.pdf](https://muntasir-mamun7.github.io/Portfolio-Muntasir-2.0/muntasir-resume.pdf)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/morn_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="morn_7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muntasirmamun7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muntasirmamun7" height="30" width="40" /></a>
+<a href="https://fb.com/muntasir0724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muntasir0724" height="30" width="40" /></a>
 <a href="https://instagram.com/muntasir_mamun_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muntasir_mamun_7" height="30" width="40" /></a>
+<a href="https://medium.com/@muntasirmamun7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muntasirmamun7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
