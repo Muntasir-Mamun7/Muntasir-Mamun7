@@ -1,4 +1,6 @@
-![gitartwork](muntasir.svg)
+<a href="https://www.linkedin.com/in/muntasirmamun7/" target="_blank">
+    <img src="muntasir.svg" alt="Muntasir Mamun's Git Artwork">
+</a>
 
 <h1 align="center">Hi 👋, I'm Muntasir Al Mamun</h1>
 <h3 align="center">A passionate Software developer from Bangladesh. Based on Nanjing,China</h3>
