@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://muntasir-mamun7.github.io/Portfolio-Muntasir-2.0/](https://muntasir-mamun7.github.io/Portfolio-Muntasir-2.0/)
 
-- 📝 I regularly write articles on [https://resultinsiderbd.com/](https://resultinsiderbd.com/)
+- 📝 I regularly write articles on [https://medium.com/@muntasirmamun7](https://medium.com/@muntasirmamun7)
 
 - 📫 How to reach me **munmamun9@gmail.com**
 
