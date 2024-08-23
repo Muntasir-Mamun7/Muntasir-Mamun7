@@ -67,5 +67,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muntasir-mamun7&" alt="muntasir-mamun7" /></p>
 <p align="center">
- <img width="1000" src="assets/MoRN.svg" alt="MoRN"/>
+ <img width="1000" src="assets/snake.svg" alt="snake"/>
 </p>
