@@ -3,7 +3,6 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Muntasir Al Mamun</h1>
-<h3 align="center">A passionate Software developer from Bangladesh. Based on Nanjing,China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasir-mamun7&label=Profile%20views&color=0e75b6&style=flat" alt="muntasir-mamun7" /> </p>
 
