@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/muntasirmamun7/" target="_blank">
+<a align="center" href="https://www.linkedin.com/in/muntasirmamun7/" target="_blank">
     <img src="muntasir.svg" alt="Muntasir Mamun's Git Artwork">
 </a>
 
