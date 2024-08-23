@@ -1,8 +1,8 @@
-<a align="center" href="https://www.linkedin.com/in/muntasirmamun7/" target="_blank">
+<a href="https://www.linkedin.com/in/muntasirmamun7/" target="_blank">
     <img src="muntasir.svg" alt="Muntasir Mamun's Git Artwork">
 </a>
 
-<h1 >Hi, I'm Muntasir Al Mamun. Welcome to My GitHub Profile!</h1>
+<h1 align="center" >Hi, I'm Muntasir Al Mamun. Welcome to My GitHub Profile!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasir-mamun7&label=Profile%20views&color=0e75b6&style=flat" alt="muntasir-mamun7" /> </p>
 
