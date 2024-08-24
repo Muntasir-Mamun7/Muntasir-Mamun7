@@ -74,3 +74,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muntasir-Mamun7&theme=blueberry" alt="GitHub Contribution"/>
   </a>
 </p>
+<a href="https://www.linkedin.com/in/muntasirmamun7/" target="_blank">
+    <img src="MoRN.svg" alt="Muntasir Mamun">
+</a>
+
+
