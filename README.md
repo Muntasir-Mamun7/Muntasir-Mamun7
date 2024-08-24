@@ -70,7 +70,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Muslehud77">
-    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muntasir-Mamun7&theme=blueberry)" alt="GitHub Contribution"/>
+  <a href="https://github.com/Muntasir-Mamun7">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muntasir-Mamun7&theme=blueberry" alt="GitHub Contribution"/>
   </a>
 </p>
