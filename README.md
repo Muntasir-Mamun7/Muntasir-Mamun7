@@ -61,11 +61,16 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muntasir-mamun7&show_icons=true&locale=en&layout=compact" alt="muntasir-mamun7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muntasir-mamun7&show_icons=true&locale=en" alt="muntasir-mamun7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muntasir-mamun7&" alt="muntasir-mamun7" /></p>
 <p align="center">
- <img width="1000" src="MoRN.svg" alt="MoRN"/>
+  <a href="https://github.com/Muslehud77">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
+  </a>
+  <a href="https://github.com/Muslehud77">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Muslehud77">
+    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muntasir-Mamun7&theme=blueberry)" alt="GitHub Contribution"/>
+  </a>
 </p>
