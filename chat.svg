@@ -250,7 +250,7 @@
 
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="163" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Ludmila.</text>
+    <text x="15" y="27">Hi, I'm Muntasir.</text>
   </g>
 
   <!-- typing 2 -->
@@ -273,9 +273,9 @@
   <!-- Work ... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="440" height="80.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="23">I’m a senior full-stack developer</text>
-    <text x="15" y="46">with 7+ years of experience and a strong FinTech,</text>
-    <text x="15" y="69">MedTech and Web3 background.</text>
+    <text x="15" y="23">Experienced Software Developer , Proficient in C/C++, Java,</text>
+    <text x="15" y="46">with 2+ years of experience and a strong FinTech,</text>
+    <text x="15" y="69">Passionate about graphics design and innovative technical projects</text>
   </g>
 
   <!-- typing 3 -->
@@ -298,8 +298,7 @@
   <!-- From Istanbul... -->
   <g transform="translate(10, 135)" class="msg-3">
     <rect width="406" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Currently I live in Tsarevo, Bulgaria</text>
-    <text x="15" y="50">where it’s supposed to be 28° C and <tspan class="emoji">☀️</tspan> today.</text>
+    <text x="15" y="27">Currently I live in Nanjing, China</text>
   </g>
 
   <!-- typing 4 -->
@@ -324,7 +323,7 @@
   <g transform="translate(10, 209)" class="msg-4">
     <rect width="255" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on <a xlink:href="https://www.linkedin.com/in/ludmila-a-dev/">LinkedIn</a>.
+      You can find me on <a xlink:href="https://www.linkedin.com/in/muntasirmamun7/">LinkedIn</a>.
     </text>
   </g>
 
