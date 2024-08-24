@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/milaabl/milaabl/main/chat.svg)](https://www.linkedin.com/in/muntasirmamun7/)
+[![](chat.svg)](https://www.linkedin.com/in/muntasirmamun7/)
 
 <a href="https://www.linkedin.com/in/muntasirmamun7/" target="_blank">
     <img src="muntasir.svg" alt="Muntasir Mamun's Git Artwork">
