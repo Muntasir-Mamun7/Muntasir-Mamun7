@@ -4,7 +4,7 @@
     <img src="muntasir.svg" alt="Muntasir Mamun's Git Artwork">
 </a>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Muntasir-Mamun7&theme=android-dark&hide_border=true&card_width=1000&card_height=180)](https://git.io/streak-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasir-mamun7&label=Profile%20views&color=0e75b6&style=flat" alt="muntasir-mamun7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muntasir-mamun7" alt="muntasir-mamun7" /></a> </p>
