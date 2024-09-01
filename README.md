@@ -79,3 +79,17 @@
 </a>
 
 
+## JAVA Projects
+<div align="center">
+  <a target="_blank" href="https://github.com/Muntasir-Mamun7/BeatChimp-MemoryTest">
+    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muntasir-Mamun7&repo=BeatChimp-MemoryTest&border_color=009150&bg_color=0D1117&title_color=009150&text_color=8B949E&icon_color=fff" />
+  </a>
+
+  <a target="_blank" href="https://github.com/Muntasir-Mamun7/Task-Management-App">
+    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muntasir-Mamun7&repo=Task-Management-App&border_color=009150&bg_color=0D1117&title_color=009150&text_color=8B949E&icon_color=fff" />
+  </a>
+  
+</div>
+
+
+
