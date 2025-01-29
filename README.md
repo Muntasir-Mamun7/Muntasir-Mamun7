@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [G3 Architect](https://muntasir-mamun7.github.io/g3-arch/)
 
-- 🌱 I’m currently learning **DeepLearning.AI & Java Spring Boot**
+- 🌱 I’m currently learning **Smart Contract using Solidity**
 
 - 👨‍💻 All of my projects are available at [https://muntasir-mamun7.github.io/Portfolio-Muntasir-2.0/](https://muntasir-mamun7.github.io/Portfolio-Muntasir-2.0/)
 
