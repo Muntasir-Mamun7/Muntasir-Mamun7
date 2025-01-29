@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=26CD67&width=435&lines=I'm+Muntasir.;Experienced+Software+Developer.;Skilled+in++Technical+Projects.;Welcome+to+my+GitHub+Profile..!)]
+[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=26CD67&width=435&lines=I'm+Muntasir.;Experienced+Software+Developer.;Skilled+in++Technical+Projects.;Welcome+to+my+GitHub+Profile..!)]
 <!-- [![](chat.svg)](https://www.linkedin.com/in/muntasirmamun7/) -->
 <a href="https://www.linkedin.com/in/muntasirmamun7/" target="_blank">
     <img src="muntasir.svg" alt="Muntasir Mamun's Git Artwork">
