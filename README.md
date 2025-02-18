@@ -11,7 +11,7 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muntasir-mamun7" alt="muntasir-mamun7" /></a> </p>-->
 
 
-- 🔭 I’m currently working on [Blockchain-based framework for spectrum sharing in aerial networks using a Stackelberg game model](https://github.com/Muntasir-Mamun7/SmartContract-tweet-add-event)
+- 🔭 Currently working on [Blockchain-based framework for spectrum sharing in aerial networks using a Stackelberg game model](https://github.com/Muntasir-Mamun7/SmartContract-tweet-add-event)
 
 - 🌱 I’m currently learning **Smart Contract using Solidity**
 
