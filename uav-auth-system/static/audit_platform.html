@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audit Platform - UAV Authentication System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="navbar-container">
+            <a href="audit_platform.html" class="navbar-brand">
+                UAV Audit Platform
+            </a>
+            <div class="navbar-menu">
+                <a href="audit_platform.html" class="navbar-link">Dashboard</a>
+                <a href="#" class="navbar-link">Missions</a>
+                <a href="#" class="navbar-link">Reports</a>
+            </div>
+            <div class="navbar-user">
+                <span class="user-name" id="userName">User</span>
+                <button class="logout-btn" id="logoutBtn">Logout</button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="main-container">
+        <div class="page-header">
+            <h1 class="page-title">UAV Audit Platform Dashboard</h1>
+            <p class="page-description">
+                Welcome to the UAV Authentication System. Manage your unmanned aerial vehicle operations securely.
+            </p>
+        </div>
+
+        <div class="content-card">
+            <h2 class="card-title">System Overview</h2>
+            <div class="card-content">
+                <p>
+                    This platform provides secure authentication and access control for UAV ground control stations.
+                    The system ensures that only authorized personnel can access mission-critical data and control interfaces.
+                </p>
+                <ul style="margin-top: 1rem; padding-left: 1.5rem;">
+                    <li>Secure user authentication with session management</li>
+                    <li>Role-based access control for different user types</li>
+                    <li>Real-time monitoring and audit logging</li>
+                    <li>Integration with UAV command and control systems</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="content-card">
+            <h2 class="card-title">Active Missions</h2>
+            <div class="card-content">
+                <p>
+                    View and manage your active UAV missions from this dashboard.
+                    Currently, no active missions are configured.
+                </p>
+            </div>
+        </div>
+
+        <div class="content-card">
+            <h2 class="card-title">Recent Activity</h2>
+            <div class="card-content">
+                <p>
+                    Your recent login activity and system interactions will be displayed here.
+                    This helps maintain security and provides an audit trail for compliance purposes.
+                </p>
+            </div>
+        </div>
+
+        <div class="content-card">
+            <h2 class="card-title">System Status</h2>
+            <div class="card-content">
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">
+                    <div style="padding: 1rem; background: #dcfce7; border-radius: 0.5rem;">
+                        <div style="font-weight: 600; color: #166534;">Authentication Service</div>
+                        <div style="color: #16a34a; font-size: 0.875rem;">Online</div>
+                    </div>
+                    <div style="padding: 1rem; background: #dcfce7; border-radius: 0.5rem;">
+                        <div style="font-weight: 600; color: #166534;">Database Connection</div>
+                        <div style="color: #16a34a; font-size: 0.875rem;">Active</div>
+                    </div>
+                    <div style="padding: 1rem; background: #dcfce7; border-radius: 0.5rem;">
+                        <div style="font-weight: 600; color: #166534;">Session Manager</div>
+                        <div style="color: #16a34a; font-size: 0.875rem;">Running</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+    <script>
+        // Require authentication to access this page
+        if (requireAuth()) {
+            // Initialize navbar with username
+            initNavbar();
+            
+            // Validate session on page load
+            validateSession();
+        }
+    </script>
+</body>
+</html>
