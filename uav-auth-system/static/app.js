@@ -1,11 +1,19 @@
 // UAV Authentication System - Frontend JavaScript
 // Handles authentication, session management, and UI interactions
+//
+// SECURITY NOTE: This implementation uses localStorage for token storage,
+// which is vulnerable to XSS attacks. For production applications, consider:
+// - Using httpOnly cookies (requires backend cookie management)
+// - Implementing Content Security Policy (CSP)
+// - Using sessionStorage for temporary session data
+// - Adding XSS protection middleware
 
 const API_BASE_URL = window.location.origin;
 
 // Auth utility functions
 const auth = {
     // Get token from localStorage
+    // NOTE: localStorage is vulnerable to XSS. Consider httpOnly cookies for production.
     getToken() {
         return localStorage.getItem('authToken');
     },

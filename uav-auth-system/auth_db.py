@@ -44,7 +44,17 @@ class AuthDB:
         conn.close()
     
     def hash_password(self, password):
-        """Hash password using SHA-256"""
+        """
+        Hash password using SHA-256
+        
+        NOTE: For production use, replace with bcrypt, scrypt, or argon2:
+        - pip install bcrypt
+        - import bcrypt
+        - return bcrypt.hashpw(password.encode(), bcrypt.gensalt())
+        
+        SHA-256 is used here for simplicity but is vulnerable to rainbow
+        table attacks without proper salting.
+        """
         return hashlib.sha256(password.encode()).hexdigest()
     
     def register_user(self, username, password):

@@ -162,12 +162,43 @@ uav-auth-system/
 
 ## Security Considerations
 
-- **Password Hashing**: Passwords are never stored in plain text
+### Current Implementation
+- **Password Hashing**: Passwords are hashed using SHA-256 before storage
 - **Session Tokens**: Cryptographically secure random tokens (32 bytes, URL-safe)
-- **Session Expiration**: Automatic cleanup of expired sessions
+- **Session Expiration**: Automatic cleanup of expired sessions (24 hours)
 - **Input Validation**: Both client-side and server-side validation
 - **Error Messages**: Generic error messages to prevent user enumeration
 - **CORS**: Configured for secure cross-origin requests
+
+### Important Security Notes
+
+⚠️ **This is a development/educational implementation. For production use, consider the following improvements:**
+
+1. **Password Hashing**: 
+   - Current: SHA-256 (vulnerable to rainbow table attacks)
+   - Recommended: Use `bcrypt`, `scrypt`, or `argon2` with salt
+   - Example: `pip install bcrypt` and use `bcrypt.hashpw()`
+
+2. **Token Storage**:
+   - Current: localStorage (vulnerable to XSS attacks)
+   - Recommended: Use httpOnly cookies for storing tokens
+   - Alternative: Use sessionStorage for slightly better security
+
+3. **Debug Mode**:
+   - Current: Flask runs with `debug=True` for development
+   - Production: Set `debug=False` and use a production WSGI server like Gunicorn
+
+4. **HTTPS**:
+   - Always use HTTPS in production to encrypt data in transit
+   - Obtain SSL/TLS certificates (Let's Encrypt is free)
+
+5. **Additional Security Measures**:
+   - Implement rate limiting to prevent brute force attacks
+   - Add CSRF protection for form submissions
+   - Use environment variables for sensitive configuration
+   - Implement password complexity requirements
+   - Add account lockout after failed login attempts
+   - Enable security headers (CSP, HSTS, X-Frame-Options)
 
 ## Future Enhancements
 

@@ -191,4 +191,8 @@ if __name__ == '__main__':
     os.makedirs('static', exist_ok=True)
     
     # Run the Flask server
+    # NOTE: debug=True is for development only. In production:
+    # 1. Set debug=False
+    # 2. Use a production WSGI server like Gunicorn or uWSGI
+    # 3. Enable HTTPS with SSL/TLS certificates
     app.run(host='0.0.0.0', port=5000, debug=True)
