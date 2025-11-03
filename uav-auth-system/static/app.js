@@ -140,24 +140,26 @@ function preventAuthPageAccess() {
 function initNavbar() {
     const username = auth.getUsername();
     const userNameEl = document.getElementById('userName');
-    const logoutBtn = document.getElementById('logoutBtn');
 
     if (userNameEl && username) {
         userNameEl.textContent = username;
     }
-
-    if (logoutBtn) {
-        logoutBtn.addEventListener('click', handleLogout);
-    }
 }
 
 // Handle logout
-async function handleLogout() {
+async function handleLogout(event) {
+    // Prevent default if called from event
+    if (event) {
+        event.preventDefault();
+    }
+    
     const token = auth.getToken();
     const logoutBtn = document.getElementById('logoutBtn');
 
     try {
-        ui.showLoading(logoutBtn);
+        if (logoutBtn) {
+            ui.showLoading(logoutBtn);
+        }
         
         // Call logout API
         const result = await api.logout(token);

@@ -20,7 +20,7 @@
             </div>
             <div class="navbar-user">
                 <span class="user-name" id="userName">User</span>
-                <button class="logout-btn" id="logoutBtn">Logout</button>
+                <button class="logout-btn" id="logoutBtn" onclick="handleLogout()">Logout</button>
             </div>
         </div>
     </nav>
@@ -93,14 +93,17 @@
 
     <script src="app.js"></script>
     <script>
-        // Require authentication to access this page
-        if (requireAuth()) {
-            // Initialize navbar with username
-            initNavbar();
-            
-            // Validate session on page load
-            validateSession();
-        }
+        // Wait for DOM to be fully loaded
+        document.addEventListener('DOMContentLoaded', function() {
+            // Require authentication to access this page
+            if (requireAuth()) {
+                // Initialize navbar with username
+                initNavbar();
+                
+                // Validate session on page load
+                validateSession();
+            }
+        });
     </script>
 </body>
 </html>
