@@ -48,7 +48,12 @@ const ui = {
         button.disabled = true;
         const originalText = button.textContent;
         button.dataset.originalText = originalText;
-        button.innerHTML = '<span class="spinner"></span>' + originalText;
+        // Use textContent to avoid XSS, and create DOM elements properly
+        const spinner = document.createElement('span');
+        spinner.className = 'spinner';
+        button.textContent = '';
+        button.appendChild(spinner);
+        button.appendChild(document.createTextNode(originalText));
     },
 
     // Hide loading spinner

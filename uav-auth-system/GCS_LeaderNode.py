@@ -65,9 +65,11 @@ def register():
             }), 400
             
     except Exception as e:
+        # Log the error internally but don't expose stack trace to user
+        print(f'Registration error: {str(e)}')  # Log for debugging
         return jsonify({
             'success': False,
-            'message': f'Server error: {str(e)}'
+            'message': 'An error occurred during registration. Please try again.'
         }), 500
 
 @app.route('/api/login', methods=['POST'])
@@ -106,9 +108,11 @@ def login():
             }), 401
             
     except Exception as e:
+        # Log the error internally but don't expose stack trace to user
+        print(f'Login error: {str(e)}')  # Log for debugging
         return jsonify({
             'success': False,
-            'message': f'Server error: {str(e)}'
+            'message': 'An error occurred during login. Please try again.'
         }), 500
 
 @app.route('/api/logout', methods=['POST'])
@@ -133,9 +137,11 @@ def logout():
         }), 200
             
     except Exception as e:
+        # Log the error internally but don't expose stack trace to user
+        print(f'Logout error: {str(e)}')  # Log for debugging
         return jsonify({
             'success': False,
-            'message': f'Server error: {str(e)}'
+            'message': 'An error occurred during logout. Please try again.'
         }), 500
 
 @app.route('/api/validate', methods=['POST'])
@@ -166,9 +172,11 @@ def validate():
             }), 401
             
     except Exception as e:
+        # Log the error internally but don't expose stack trace to user
+        print(f'Validation error: {str(e)}')  # Log for debugging
         return jsonify({
             'success': False,
-            'message': f'Server error: {str(e)}'
+            'message': 'An error occurred during validation. Please try again.'
         }), 500
 
 @app.route('/api/cleanup', methods=['POST'])
@@ -181,9 +189,11 @@ def cleanup():
             'message': 'Cleanup completed'
         }), 200
     except Exception as e:
+        # Log the error internally but don't expose stack trace to user
+        print(f'Cleanup error: {str(e)}')  # Log for debugging
         return jsonify({
             'success': False,
-            'message': f'Server error: {str(e)}'
+            'message': 'An error occurred during cleanup. Please try again.'
         }), 500
 
 if __name__ == '__main__':
