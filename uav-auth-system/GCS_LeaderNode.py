@@ -59,8 +59,11 @@ def register():
                 'message': 'Registration successful'
             }), 201
         else:
-            # Don't expose internal error details, provide user-friendly message
-            error_message = result if result == "Username already exists" else "Registration failed. Please try again."
+            # Only expose specific known error messages, nothing else
+            if result == "Username already exists":
+                error_message = "Username already exists"
+            else:
+                error_message = "Registration failed. Please try again."
             return jsonify({
                 'success': False,
                 'message': error_message
