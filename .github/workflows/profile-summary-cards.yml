@@ -22,5 +22,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: Muntasir-Mamun7
           UTC_OFFSET: 6
+          BRANCH_NAME: profile-summary-card-output
