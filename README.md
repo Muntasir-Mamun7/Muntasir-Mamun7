@@ -122,7 +122,7 @@ const muntasir = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muntasir-Mamun7&theme=algolia" alt="GitHub Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/Muntasir-Mamun7/Muntasir-Mamun7/profile-summary-card-output/github-profile-summary-cards-profile-details.svg" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
@@ -130,8 +130,8 @@ const muntasir = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muntasir-Mamun7&theme=algolia" alt="GitHub Stats" height="180"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muntasir-Mamun7&theme=algolia&utcOffset=6" alt="Productive Time" height="180"/>
+  <img src="https://raw.githubusercontent.com/Muntasir-Mamun7/Muntasir-Mamun7/profile-summary-card-output/github-profile-summary-cards-stats.svg" alt="GitHub Stats" height="180"/>
+  <img src="https://raw.githubusercontent.com/Muntasir-Mamun7/Muntasir-Mamun7/profile-summary-card-output/github-profile-summary-cards-productive-time.svg" alt="Productive Time" height="180"/>
 </p>
 
 ---
