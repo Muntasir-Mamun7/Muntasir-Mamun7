@@ -73,7 +73,7 @@ const muntasir = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muntasir-mamun7&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muntasir-Mamun7&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -131,7 +131,7 @@ const muntasir = {
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muntasir-Mamun7&theme=algolia" alt="GitHub Stats" height="180"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muntasir-Mamun7&theme=algolia&utcOffset=8" alt="Productive Time" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muntasir-Mamun7&theme=algolia&utcOffset=6" alt="Productive Time" height="180"/>
 </p>
 
 ---
@@ -139,7 +139,7 @@ const muntasir = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muntasir-Mamun7/Muntasir-Mamun7/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Muntasir-Mamun7/Muntasir-Mamun7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -159,15 +159,8 @@ const muntasir = {
   <a href="https://github.com/Muntasir-Mamun7/Task-Management-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muntasir-Mamun7&repo=Task-Management-App&theme=algolia&hide_border=true" alt="Featured Repo 3" />
   </a>
-</div>
-
----
-
-## 🎨 Creative Showcase
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/muntasirmamun7/" target="_blank">
-    <img src="MoRN.svg" alt="Muntasir Mamun's Creative Work" style="width: 100%; max-width: 800px;">
+  <a href="https://github.com/Muntasir-Mamun7/Portfolio-Muntasir-2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muntasir-Mamun7&repo=Portfolio-Muntasir-2.0&theme=algolia&hide_border=true" alt="Featured Repo 4" />
   </a>
 </div>
 
