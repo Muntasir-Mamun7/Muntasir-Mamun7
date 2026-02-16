@@ -21,10 +21,10 @@
 
 **Computer Science & Technology** Student at **Nanjing University of Posts and Telecommunications (NJUPT)** with passion for advancing the intersection of **blockchain technology** and **Unmanned Aerial Vehicle (UAV) systems**. Research focuses on developing secure, decentralized solutions for next-generation aerial networks and spectrum management.
 
-** Current Research Focus:**  
+**Current Research Focus:**  
 Designing and implementing UAV authentication systems using Proof-of-History blockchain technology, with emphasis on credible spectrum sharing in low-altitude intelligent networking environments.
 
-** Research Interests:**  
+**Research Interests:**  
 • Blockchain-enabled UAV Communications  
 • Spectrum Security & Management in 6G Networks  
 • Smart Contract Development for Aerial Systems  
