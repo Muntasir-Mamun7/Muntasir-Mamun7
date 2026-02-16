@@ -17,14 +17,14 @@
 
 ---
 
-## 👨‍🎓 About Me
+##  About Me
 
 **Computer Science & Technology** Student at **Nanjing University of Posts and Telecommunications (NJUPT)** with passion for advancing the intersection of **blockchain technology** and **Unmanned Aerial Vehicle (UAV) systems**. Research focuses on developing secure, decentralized solutions for next-generation aerial networks and spectrum management.
 
-**🎯 Current Research Focus:**  
+** Current Research Focus:**  
 Designing and implementing UAV authentication systems using Proof-of-History blockchain technology, with emphasis on credible spectrum sharing in low-altitude intelligent networking environments.
 
-**🔍 Research Interests:**  
+** Research Interests:**  
 • Blockchain-enabled UAV Communications  
 • Spectrum Security & Management in 6G Networks  
 • Smart Contract Development for Aerial Systems  
@@ -33,7 +33,7 @@ Designing and implementing UAV authentication systems using Proof-of-History blo
 
 ---
 
-## 📝 Publications & Research
+##  Publications & Research
 
 ### Published Papers
 
@@ -45,26 +45,26 @@ Designing and implementing UAV authentication systems using Proof-of-History blo
 
 ---
 
-## 🛠️ Technical Skills & Expertise
+##  Technical Skills & Expertise
 
-### 🔐 Blockchain Development
+###  Blockchain Development
 `Solidity` `Smart Contracts` `Ethereum` `Web3.js` `Hardhat` `DeFi` `dApps` `Proof-of-History`
 
-### 🛩️ UAV & Simulation Systems
+###  UAV & Simulation Systems
 `AirSim` `PX4 Autopilot` `Unreal Engine` `Unity` `Drone Programming` `Aerial Network Protocols`
 
-### 💻 Programming Languages
+###  Programming Languages
 `C` `C++` `Java` `C#` `JavaScript` `TypeScript` `Python` `Solidity`
 
-### 🌐 Web Development
+###  Web Development
 `HTML5` `CSS3` `Tailwind CSS` `React` `Node.js` `Full-stack Development`
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 `Git/GitHub` `Linux` `MySQL` `VS Code` `Docker` `IPFS` `MetaMask`
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always eager to collaborate on innovative research, discuss blockchain applications in UAV systems, or explore opportunities in decentralized technologies. Whether you're interested in my research, looking for collaboration, or simply want to connect professionally, feel free to reach out!
 
