@@ -25,6 +25,16 @@
 
 ---
 
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/Muntasir-Mamun7/Muntasir-Mamun7/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)
+```
+
+    
+
+---
+
 ![](./2-most-commit-language.svg)
 
 ```
