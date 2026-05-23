@@ -15,16 +15,6 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/Muntasir-Mamun7/Muntasir-Mamun7/main/profile-summary-card-output/kacho_ga/0-profile-details.svg)
-```
-
-    
-
----
-
 ![](./1-repos-per-language.svg)
 
 ```
@@ -49,16 +39,6 @@
 
 ```
 ![](https://raw.githubusercontent.com/Muntasir-Mamun7/Muntasir-Mamun7/main/profile-summary-card-output/kacho_ga/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Muntasir-Mamun7/Muntasir-Mamun7/main/profile-summary-card-output/kacho_ga/4-productive-time.svg)
 ```
 
     
